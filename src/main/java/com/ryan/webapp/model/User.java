@@ -11,7 +11,7 @@ public class User {
 	
 	private long id;
 	@NotEmpty
-	@Size(min=1, max=50) 
+	@Size(min=1, max=51) 
 	private String firstName;
 	
 	@NotEmpty
